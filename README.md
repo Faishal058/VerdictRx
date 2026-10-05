@@ -458,16 +458,6 @@ That is the core of the **investigation-to-QA automation** approach.
 
 ------------------------------------------------------------------------
 
-## Team
-
-**Team Kuronami**
-
-**Project:** VerdictRx\
-**Track:** PS22\
-**Event:** HackSprint --- Manipal Academy of Higher Education
-
-------------------------------------------------------------------------
-
 ## Disclaimer
 
 VerdictRx is a hackathon prototype / demonstration system. It uses
